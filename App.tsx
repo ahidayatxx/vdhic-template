@@ -120,7 +120,7 @@ const App: React.FC = () => {
               <span className="bg-blue-600 px-3 py-1 rounded text-white text-lg tracking-widest shadow-sm">VDHIC</span>
             </h1>
             <div className="h-6 w-px bg-slate-700"></div>
-            <span className="text-slate-400 font-medium text-sm hidden sm:inline-block">Digital Health Innovation Canvas</span>
+            <span className="text-slate-400 font-medium text-sm hidden sm:inline-block">Value-Based Digital Health Innovation Canvas</span>
           </div>
 
           <div className="flex items-center gap-3">
@@ -332,8 +332,8 @@ const App: React.FC = () => {
 
           {/* Footer */}
           <div className="text-center text-slate-400 mt-12 pb-12 print:mt-8 print:text-slate-600 border-t border-slate-200 pt-8">
-            <p className="font-bold text-lg text-slate-500 mb-1">Value-Based Digital Health Innovation Canvas (VDHIC) v1.2</p>
-            <p className="font-medium text-sm text-slate-500 mb-6">Facilitating Acceleration of Digital Health Innovation in Indonesia</p>
+            <p className="font-bold text-lg text-slate-500 mb-1">Value-Based Digital Health Innovation Canvas (VDHIC)</p>
+            <p className="font-medium text-sm text-slate-500 mb-6">Accelerating Digital Health Innovation in Indonesia</p>
             
             <div className="text-xs font-medium text-slate-400 flex flex-col gap-1">
               <p>Australian Awards Fellowships &bull; DFAT Australia</p>
